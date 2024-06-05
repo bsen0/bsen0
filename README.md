@@ -1,4 +1,3 @@
-[![MasterHead](https://i.eurosport.com/2019/03/13/2542615-52751010-2560-1440.jpg)
 <h1 align="center">Hi 👋, I'm Bedirhan Şen</h1>
 <h3 align="center">I am a student of 42 Schools. I'm always in love with learning new things</h3>
 

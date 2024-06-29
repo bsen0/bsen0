@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bedirhan Şen</h1>
 <h3 align="center">I am a student of 42 Schools. I'm always in love with learning new things</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bsen0&label=Profile%20views&color=0e75b6&style=flat" alt="bsen0" /> </p>
+
 
 - 🌱 I’m currently learning **How to find a job.**
 
